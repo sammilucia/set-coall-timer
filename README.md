@@ -1,4 +1,4 @@
-# Ryzen random deadlock/freeze/hang/black screen workaround/solution
+# AMD Ryzen random deadlock/freeze/hang/black screen workaround/solution
 A simple timer to workaround a potential AMD deadlock situation.
 
 ## Disclaimer
