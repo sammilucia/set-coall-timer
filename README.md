@@ -6,10 +6,10 @@ This is provided for informational purposes only. All responsibility is with you
 
 ## What this is
 There are several difficult-to-diagnose/repro issues in Linux here:
-https://gitlab.freedesktop.org/drm/amd/-/issues/1974
-https://gitlab.freedesktop.org/drm/amd/-/issues/2068
-https://gitlab.freedesktop.org/drm/amd/-/issues/2220
-https://gitlab.freedesktop.org/drm/amd/-/issues/2226
+- https://gitlab.freedesktop.org/drm/amd/-/issues/1974
+- https://gitlab.freedesktop.org/drm/amd/-/issues/2068
+- https://gitlab.freedesktop.org/drm/amd/-/issues/2220
+- https://gitlab.freedesktop.org/drm/amd/-/issues/2226
 
 (The problem may also occur in Windows.)
 
