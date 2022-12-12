@@ -1,5 +1,5 @@
-# set-coall-timer
-A simple timer to workaround a potential AMD freeze/deadlock
+# Ryzen random deadlock/freeze/hang/black screen workaround/solution
+A simple timer to workaround a potential AMD deadlock situation.
 
 ## Disclaimer
 This is provided for informational purposes only. All responsibility is with you.
