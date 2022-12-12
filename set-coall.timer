@@ -1,0 +1,11 @@
+[Unit]
+Description=Override AMD Curve Optimizer on startup and every 10 minutes thereafter
+
+[Timer]
+OnBootSec=1min
+OnUnitActiveSec=10min
+Persistent=true
+
+[Install]
+WantedBy=timers.target
+

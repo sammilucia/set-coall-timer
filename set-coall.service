@@ -1,0 +1,7 @@
+[Unit]
+Description=Override AMD Curve Optimizer
+
+[Service]
+Type=simple
+ExecStart=/usr/local/bin/ryzenadj --set-coall=0x100014
+
