@@ -41,3 +41,4 @@ I'm guessing it will require an AMD microcode patch (but I don't know... diagnos
 - _Does this use more battery?_...No, negligible
 - _Will it harm my CPU?_... No, AMD won't let you increase the voltage by a harmful amount
 - _Then why do you have a disclaimer?_...Because I'm paranoid everyone is out to get me
+- Can I do something similar to this on Windows? Yes. 😜
