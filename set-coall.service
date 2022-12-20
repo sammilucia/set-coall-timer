@@ -3,5 +3,5 @@ Description=Override AMD Curve Optimizer
 
 [Service]
 Type=simple
-ExecStart=/usr/local/bin/ryzenadj --set-coall=0x100014
+ExecStart=/usr/local/bin/ryzenadj --set-coall=0x100020
 
